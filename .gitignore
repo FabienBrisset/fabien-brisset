@@ -1,0 +1,7 @@
+src/vendor/*
+src/vendor/composer/*
+src/vendor/composer/installers/tests/Composer/Installers/Test/*
+src/web/core/*
+src/web/sites/default/files/*
+src/web/modules/contrib/*
+.idea
